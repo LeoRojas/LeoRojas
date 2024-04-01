@@ -1,4 +1,4 @@
-### Hello my name is Leonardo Rojas 👋
+### Hello, my name is Leonardo Rojas 👋
 
 I am a software engineer.I have over twelve years of experience in software development and deploying web applications, mainly using Ruby on Rails, Python, PHP and Amazon Web Services.
 
