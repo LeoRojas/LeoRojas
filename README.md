@@ -5,7 +5,6 @@ I am a software engineer.I have over twelve years of experience in software deve
 In addition to web development, I have a strong background in computer science,startups and AWS, which I have leveraged to build scalable and secure solutions for the media production industry. I also enjoy mentoring and sharing my knowledge with other developers at Codementor, an online platform where I have helped hundreds of clients with various Ruby and AWS related challenges. My goal is to continue learning and growing as a software engineer, and to create impactful and innovative products that solve real-world problems.
 
 🔭 I’m currently working on:
-- Software Engineer at Acorns
 - Mentor at codementor
 - Freelance part time developer
 - Feelance AWS consultant
